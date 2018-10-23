@@ -1,0 +1,13 @@
+<div><a href="https://vimeo.com/200420513" data-lity><img class="img-responsive" src="/images/thumbnails/corporate-sizzle.jpg"><span class="video-title">Sizzle Reel</span></a></div>
+<div><a href="https://vimeo.com/6299477" data-lity><img class="img-responsive" src="/images/thumbnails/cq-media-inc.jpg"><span class="video-title">thinkCQ Media Inc.</span></a></div>
+<div><a href="https://vimeo.com/196346597" data-lity><img class="img-responsive" src="/images/thumbnails/freeman-technology.jpg"><span class="video-title">Freeman Technology</span></a></div>
+<div><a href="https://vimeo.com/40184819" data-lity><img class="img-responsive" src="/images/thumbnails/behind-the-scenes.jpg"><span class="video-title">Behind the Scenes</span></a></div>
+<div><a href="https://vimeo.com/196345656" data-lity><img class="img-responsive" src="/images/thumbnails/freeman-exhibitor.jpg"><span class="video-title">Freeman Exhibitor</span></a></div>
+<div><a href="https://vimeo.com/181349079" data-lity><img class="img-responsive" src="/images/thumbnails/art-meets-education.jpg"><span class="video-title">Art Meets Education</span></a></div>
+<div><a href="https://vimeo.com/196346900" data-lity><img class="img-responsive" src="/images/thumbnails/lensx-patient-ed.jpg"><span class="video-title">LenSx Patient Ed</span></a></div>
+<div><a href="https://vimeo.com/138904490" data-lity><img class="img-responsive" src="/images/thumbnails/first-command-financial.jpg"><span class="video-title">First Comand Corporate</span></a></div>
+<div><a href="https://vimeo.com/7803605" data-lity><img class="img-responsive" src="/images/thumbnails/texas-legal.jpg"><span class="video-title">Texas Legal Brochure</span></a></div>
+<div><a href="https://vimeo.com/6438039" data-lity><img class="img-responsive" src="/images/thumbnails/promotional-sample-camp-bowie.jpg"><span class="video-title">Promotional Sample Camp Bowie</span></a></div>
+<div><a href="https://vimeo.com/196336311" data-lity><img class="img-responsive" src="/images/thumbnails/cer-infomercial.jpg"><span class="video-title">CER Infomercial</span></a></div>
+<div><a href="https://vimeo.com/6298905" data-lity><img class="img-responsive" src="/images/thumbnails/barnett-shale-preview.jpg"><span class="video-title">Barnett Shale Preview</span></a></div>
+<div><a href="https://vimeo.com/6705788" data-lity><img class="img-responsive" src="/images/thumbnails/road-to-life-fundraiser.jpg"><span class="video-title">Road to Life Fundraiser</span></a></div>

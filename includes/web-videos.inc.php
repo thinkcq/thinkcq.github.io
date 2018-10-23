@@ -1,0 +1,10 @@
+<div><a href="https://vimeo.com/199519396" data-lity><img class="img-responsive" src="/images/thumbnails/whats-on-your-website.jpg"><span class="video-title">What's on your Website</span></a></div>
+<div><a href="https://vimeo.com/199519086" data-lity><img class="img-responsive" src="/images/thumbnails/your-website-mobile-friendly.jpg"><span class="video-title">Your Website Mobile Friendly</span></a></div>
+<div><a href="https://vimeo.com/196337548" data-lity><img class="img-responsive" src="/images/thumbnails/niagra-streaming-media.jpg"><span class="video-title">Niagra Streaming Media</span></a></div>
+<div><a href="https://vimeo.com/196338989" data-lity><img class="img-responsive" src="/images/thumbnails/tcu-energy-institute-1.jpg"><span class="video-title">TCU Energy Institute</span></a></div>
+<div><a href="https://vimeo.com/174159222" data-lity><img class="img-responsive" src="/images/thumbnails/art-meets-right-brain-thinking.jpg"><span class="video-title">Art Meets Right Brain Thinking</span></a></div>
+<div><a href="https://vimeo.com/196337935" data-lity><img class="img-responsive" src="/images/thumbnails/reata-realty.jpg"><span class="video-title">Reata Reality</span></a></div>
+<div><a href="https://vimeo.com/196336038" data-lity><img class="img-responsive" src="/images/thumbnails/cer-overview.jpg"><span class="video-title">CER Overview</span></a></div>
+<div><a href="https://vimeo.com/174121498" data-lity><img class="img-responsive" src="/images/thumbnails/art-meets-education-trailer.jpg"><span class="video-title">Art Meets Education - Trailer</span></a></div>
+<div><a href="https://vimeo.com/30708616" data-lity><img class="img-responsive" src="/images/thumbnails/tcu-energy-institute-rethink.jpg"><span class="video-title">TCU Energy Institute</span></a></div>
+<div><a href="https://vimeo.com/196373455" data-lity><img class="img-responsive" src="/images/thumbnails/mannequin-challenge.jpg"><span class="video-title">Mannequin Challenge</span></a></div>

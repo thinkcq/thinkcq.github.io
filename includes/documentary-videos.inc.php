@@ -1,0 +1,16 @@
+<!-- <div><a href="https://vimeo.com/6299477" data-lity><img class="img-responsive" src="/images/placeholder-thumbnail.png"><span class="video-title">Ron Hall Same Kind as Different as Me</span></a></div> -->
+<div><a href="https://vimeo.com/174162264" data-lity><img class="img-responsive" src="/images/thumbnails/art-meets-world.jpg"><span class="video-title">Art Meets World</span></a></div>
+<div><a href="https://vimeo.com/180386912" data-lity><img class="img-responsive" src="/images/thumbnails/art-meets-social-change.jpg"><span class="video-title">Art Meets Social Change 1</span></a></div>
+<div><a href="https://vimeo.com/196352709" data-lity><img class="img-responsive" src="/images/thumbnails/hall-2.jpg"><span class="video-title">Art Meets Social Change 2</span></a></div>
+<div><a href="https://vimeo.com/196353198" data-lity><img class="img-responsive" src="/images/thumbnails/hall-3.jpg"><span class="video-title">Art Meets Social Change 3</span></a></div>
+<div><a href="https://vimeo.com/196353929" data-lity><img class="img-responsive" src="/images/thumbnails/hall-4.jpg"><span class="video-title">Art Meets Social Change 4</span></a></div>
+<div><a href="https://vimeo.com/196356450" data-lity><img class="img-responsive" src="/images/thumbnails/hall-5.jpg"><span class="video-title">Art Meets Social Change 5</span></a></div>
+<div><a href="https://vimeo.com/181050976" data-lity><img class="img-responsive" src="/images/thumbnails/art-meets-music.jpg"><span class="video-title">Art Meets Music</span></a></div>
+<div><a href="https://vimeo.com/179581295" data-lity><img class="img-responsive" src="/images/thumbnails/art-meets-business.jpg"><span class="video-title">Art Meets Business</span></a></div>
+<div><a href="https://vimeo.com/179580833" data-lity><img class="img-responsive" src="/images/thumbnails/art-meets-nature.jpg"><span class="video-title">Art Meets Nature</span></a></div>
+<div><a href="https://vimeo.com/179581755" data-lity><img class="img-responsive" src="/images/thumbnails/art-meets-science.jpg"><span class="video-title">Art Meets Science</span></a></div>
+<div><a href="https://vimeo.com/179580529" data-lity><img class="img-responsive" src="/images/thumbnails/art-meets-technology.jpg"><span class="video-title">Art Meets Technology</span></a></div>
+<div><a href="https://vimeo.com/6299706" data-lity><img class="img-responsive" src="/images/thumbnails/risk-cinema-preview.jpg"><span class="video-title">Risk Cinema</span></a></div>
+<div><a href="https://vimeo.com/138905063" data-lity><img class="img-responsive" src="/images/thumbnails/tom-lovell-storyteller.jpg"><span class="video-title">Tom Lovell Storyteller with a Brush</span></a></div>
+<div><a href="https://vimeo.com/6597452" data-lity><img class="img-responsive" src="/images/thumbnails/john-justin.jpg"><span class="video-title">John Justin Standard of the West</span></a></div>
+<div><a href="https://vimeo.com/196347753" data-lity><img class="img-responsive" src="/images/thumbnails/bobby-brown.jpg"><span class="video-title">Bobby Brown a Life to Remember</span></a></div>
